@@ -1,3 +1,2 @@
-json
 pandas
 python-telegram-bot
